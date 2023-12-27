@@ -7,7 +7,7 @@
 > ㅤ  
 > **전화번호** : 010-8473-2007  
 > **E-Mail** : dbrrlwns1127@dsm.hs.kr  
-> **Discord** : dragonis132  
+> **LinkedIn** : https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EC%9C%A1-3b22492a7/  
 >  
 > <a title="토스 간편송금 페이지로 이동합니다." href="https://toss.me/dragonis"><img src="https://img.shields.io/badge/Buy Me a Coffee-774DFF?style=for-the-badge&logo=ko-fi&logoColor=white&font "></a> <a title="포트폴리오 페이지로 이동합니다." href="https://six-standard.notion.site/783897eacbaf4a468d26095950a35941?pvs=4"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=gray"></a>  
 > ㅤ
