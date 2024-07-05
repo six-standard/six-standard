@@ -5,7 +5,6 @@
 
 ### 연락처 
 > ㅤ  
-> **전화번호** : 010-8473-2007  
 > **E-Mail** : dbrrl1127@gmail.com (육기1127@gmail.com)  
 > **LinkedIn** : https://www.linkedin.com/in/기준-육/
 >  
