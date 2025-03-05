@@ -1,7 +1,7 @@
 ### 안녕하세요
 > **Front-End 엔지니어로써 성장하고 있는 육기준입니다.**  
 >
-> [![wakatime](https://wakatime.com/badge/user/018b4c78-faad-4221-95dd-ca0081068804.svg)](https://wakatime.com/@018b4c78-faad-4221-95dd-ca0081068804)
+> [![wakatime](https://wakatime.com/badge/user/018b4c78-faad-4221-95dd-ca0081068804.svg)](https://wakatime.com/@018b4c78-faad-4221-95dd-ca0081068804) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsix-standard&count_bg=%2379C83D&title_bg=%23555555&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 연락처 
 > ㅤ  
