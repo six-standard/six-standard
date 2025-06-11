@@ -10,3 +10,5 @@
 >  
 > <a title="토스 간편송금 페이지로 이동합니다." href="https://toss.me/dragonis"><img src="https://img.shields.io/badge/Buy Me a Coffee-774DFF?style=for-the-badge&logo=ko-fi&logoColor=white&font "></a> <a title="포트폴리오 페이지로 이동합니다." href="https://six-standard.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=gray"></a> <a title="이력서 페이지로 이동합니다." href="https://www.dsm-repo.com/resume_viewer/66dc46c0fcaf9157ccc2e3ff"><img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=notion&logoColor=gray"></a> <a title="제 벨로그로 이동합니다" href="https://velog.io/@six-standard/posts"><img src="https://img.shields.io/badge/Velog-21c998?style=for-the-badge&logo=dd&logoColor=white&font"></a>  
 > ㅤ  
+
+<img src="error" onerror="console.log('되나?')"/>
