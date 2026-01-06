@@ -1,5 +1,5 @@
 ### 안녕하세요
-> **Front-End 엔지니어로써 성장하고 싶은 육기준입니다.**  
+> **사람들의 불편함을 해결하고 싶은 엔지니어, 육기준입니다.**  
 >
 > [![wakatime](https://wakatime.com/badge/user/018b4c78-faad-4221-95dd-ca0081068804.svg)](https://wakatime.com/@018b4c78-faad-4221-95dd-ca0081068804)
 
