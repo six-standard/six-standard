@@ -6,6 +6,6 @@
 - 언젠가 자가가 생기면 멋지고 안정적인 홈랩을 구성하고 싶습니다.
 - 풀사이즈 사과농장을 운영하고 있습니다. (언젠가 애플 주식을 살 계획입니다)
 - 저를 전혀 예상치 못한 곳에서 보셨을지도 모릅니다. (고의로 찾으시려고 해도 아마 어려우실겁니다)
-- 제 대부분의 개인 작업물은 [오기준 레포지토리](https://github.com/five-standard) 에서 찾으실 수 있습니다
+- 제 개인 작업물과 기여한 오픈소스는 [오기준 레포지토리](https://github.com/five-standard) 에서 찾으실 수 있습니다
 
 [![wakatime](https://wakatime.com/badge/user/018b4c78-faad-4221-95dd-ca0081068804.svg)](https://wakatime.com/@018b4c78-faad-4221-95dd-ca0081068804)
